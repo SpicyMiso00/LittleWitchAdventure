@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/NEW SCENE/MainMenu.unity
+    guid: 9ffe712510d990e4a8727ec0cdac17e3
+  - enabled: 1
+    path: Assets/Scenes/NEW SCENE/CutScene.unity
+    guid: 2fa0b7e2658934e459f6622ca0024f5e
+  - enabled: 1
+    path: Assets/Scenes/NEW SCENE/MagicShop.unity
+    guid: a678cdfe264302646bf418da6f8eb107
+  - enabled: 1
+    path: Assets/Scenes/NEW SCENE/HutanPinus.unity
+    guid: 19a731da7081d694ea865b9920b7fb68
+  - enabled: 1
+    path: Assets/Scenes/NEW SCENE/DesaPoppy.unity
+    guid: fbdb9832ad2c55b42a1cea0362cdc192
+  m_configObjects: {}

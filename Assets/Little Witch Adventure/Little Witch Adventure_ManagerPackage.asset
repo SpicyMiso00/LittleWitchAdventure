@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b4a24d0e4a28423fb3249b923d7e418, type: 3}
+  m_Name: Little Witch Adventure_ManagerPackage
+  m_EditorClassIdentifier: 
+  actionsManager: {fileID: 11400000, guid: fb533ff67fc09ba4f866d899e82046c6, type: 2}
+  sceneManager: {fileID: 11400000, guid: 1cc2f95503d382349bb66b71891f4b76, type: 2}
+  settingsManager: {fileID: 11400000, guid: e0640dd4c35aa2142a5cd2107bd71549, type: 2}
+  inventoryManager: {fileID: 11400000, guid: adc6d3ca1c58b4d469497713dc6a3b53, type: 2}
+  variablesManager: {fileID: 11400000, guid: d20f09a86071d1641a91431528d37a5b, type: 2}
+  speechManager: {fileID: 11400000, guid: d95036e9d2f78484dbca2ac368bbfb0d, type: 2}
+  cursorManager: {fileID: 11400000, guid: d59b4a8b6eca92244b4145c0416684d2, type: 2}
+  menuManager: {fileID: 11400000, guid: d85e13fd5766f2b4fa881e471cc4b1ad, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b7428e047d97344b9955168a51801e7, type: 3}
+  m_Name: Anna
+  m_EditorClassIdentifier: 
+  name: Anna
+  dialogue:
+  - Hai
+  - Benar. Ada yang bisa kubantu?
+  - ' Luna la Stella?! Kenapa kamu ada di sini?'
+  - Cranberry?!! Dia salah satu muridku dan sahabat lama dari Luna...
+  playerDialogue:
+  - Halo... Apakah anda Prof. Anna?
+  - Namaku Michy. Anak dari penyihir Luna la Stella.
+  - Tubuh mama semakin lemah karena sihir dari penyihir bernama Cranberry.

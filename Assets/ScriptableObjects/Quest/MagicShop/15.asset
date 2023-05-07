@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 265c14a1f34270340b25324a2d4fe464, type: 3}
+  m_Name: 15
+  m_EditorClassIdentifier: 
+  ActionName: 
+  Actor: {fileID: 11400000, guid: 7c3b37f799a4c6e448f21719f5e9e6b2, type: 2}
+  Type: 1
+  Content: 
+  QuestionContent: Sepertinya kau sangat suka dengan tantangan.
+  ChoiceContent:
+  - Content: Meminta saran
+    Score: 5
+    QuestionReaction: Kunci dari tantangan ini adalah... rasa ingin tahu yang kuat!
+  - Content: Menerima tantangan
+    Score: 3
+    QuestionReaction: Baiklah kalau begitu.

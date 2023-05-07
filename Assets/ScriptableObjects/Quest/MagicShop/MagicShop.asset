@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8da987a9cedca8b4ca07bcc4372f1517, type: 3}
+  m_Name: MagicShop
+  m_EditorClassIdentifier: 
+  QuestName: MagicShop
+  InitialScore: 11
+  MinimumScore: 20
+  ActionList:
+  - {fileID: 11400000, guid: e0eef824e2cf11f4d8830798565b8185, type: 2}
+  - {fileID: 11400000, guid: eea85a82c5169294f93aa46455f6d9e6, type: 2}
+  - {fileID: 11400000, guid: 07af01da1d5d51e4097fd8662501acd0, type: 2}
+  - {fileID: 11400000, guid: 5d180300109f1be488b0996d47ca3c07, type: 2}
+  - {fileID: 11400000, guid: 9912280875ac28543862328999e5f377, type: 2}
+  - {fileID: 11400000, guid: 1fa39c69ae07e9c42b0b48e6121628e5, type: 2}
+  - {fileID: 11400000, guid: b84fc4fd9c25e8b4bbc19266e0afc1bd, type: 2}
+  - {fileID: 11400000, guid: c78d3d2c56479ad408048b8001b0334c, type: 2}
+  - {fileID: 11400000, guid: a50c6dc11c8974343b4b3871d4d5df95, type: 2}
+  - {fileID: 11400000, guid: 3342122baaa29314d9e0a01abc7a14d7, type: 2}
+  - {fileID: 11400000, guid: 84bc56e7cb6365041a85b908bcd625e7, type: 2}
+  - {fileID: 11400000, guid: 2ae8330d9d43d9c44b1184fa436d1cce, type: 2}
+  - {fileID: 11400000, guid: f351e38295afc02469a572cdba67184a, type: 2}
+  - {fileID: 11400000, guid: 7e9dab23fab31d24bbb38efff1e80d98, type: 2}
+  - {fileID: 11400000, guid: 24a72333a711bac4c9f0e5f173be5207, type: 2}
+  - {fileID: 11400000, guid: 04da016fe70915a4da669f5f915775b3, type: 2}
+  - {fileID: 11400000, guid: 779cdbf3276c2534891c5ee5d05620cd, type: 2}
+  - {fileID: 11400000, guid: ee68ec08f377dfc40b7a55c7caef4bb7, type: 2}
+  - {fileID: 11400000, guid: 00de4037f3aa44648a2e3547e96291ba, type: 2}
+  - {fileID: 11400000, guid: 958cda268497ab443b25eb524f64227f, type: 2}
+  - {fileID: 11400000, guid: 472909cc4dcfd5e41afb9fee7d575369, type: 2}
+  - {fileID: 11400000, guid: eaf12abc767efcd47a9c370170e790e4, type: 2}

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8abdc15b0a700074fa4938f709a5ebe9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Amboqia Boriango
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 268d3ad2a087bfc43948b30dc0b310ea, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

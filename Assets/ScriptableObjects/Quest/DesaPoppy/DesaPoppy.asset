@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8da987a9cedca8b4ca07bcc4372f1517, type: 3}
+  m_Name: DesaPoppy
+  m_EditorClassIdentifier: 
+  QuestName: DesaPoppy
+  InitialScore: 42
+  MinimumScore: 50
+  ActionList:
+  - {fileID: 11400000, guid: dccae9398742eef46b77fadf7598a8df, type: 2}
+  - {fileID: 11400000, guid: 2f7a0ef5c1066b947896c948441e6249, type: 2}
+  - {fileID: 11400000, guid: 90b208d7ef28a784989e18a40b1e062c, type: 2}
+  - {fileID: 11400000, guid: efddfd2b39ef81145aa578c0ca9787f8, type: 2}
+  - {fileID: 11400000, guid: 2bc3178290275be4f8b9bf5559b15bdf, type: 2}
+  - {fileID: 11400000, guid: f9fc88b9d03d4c6408a794ef6a858877, type: 2}
+  - {fileID: 11400000, guid: dc3e20c90c75e8e4ba67754d40cea64e, type: 2}
+  - {fileID: 11400000, guid: 3ec52fc34f9393a46b56b6bd965ceded, type: 2}
+  - {fileID: 11400000, guid: 9a08f8a2a6a76fe49bf149bf4fde9379, type: 2}
+  - {fileID: 11400000, guid: 497576a59029fe544ad2fad46f7927de, type: 2}
+  - {fileID: 11400000, guid: 68dd28645219bab4cb83b549251765c6, type: 2}
+  - {fileID: 11400000, guid: c11ef3d0c2fbbcb4c8868e48be3568f2, type: 2}
+  - {fileID: 11400000, guid: b7a55fd049cff1b4b9cb4d1b55364269, type: 2}
+  - {fileID: 11400000, guid: a5cac13f2809f2347b9781948c2e8b09, type: 2}
+  - {fileID: 11400000, guid: acdfdd719c95f6349ab2fa7cf1545e6d, type: 2}
+  - {fileID: 11400000, guid: 5005d68d2add6ce439ef7b10d915a1ba, type: 2}
+  - {fileID: 11400000, guid: 314ccf00d2bf9c1418d8ea86ab30067a, type: 2}
+  - {fileID: 11400000, guid: c6d0b5a25f6f4c14aae80771a59bc4c3, type: 2}
+  - {fileID: 11400000, guid: 37b16183c2abd124183607c7e36756c8, type: 2}
+  - {fileID: 11400000, guid: c7b9809c078213e48bf052e98c6b9d3c, type: 2}
+  - {fileID: 11400000, guid: 6c5084a3f5273be4ea795826e7906628, type: 2}
+  - {fileID: 11400000, guid: 08e31407404ab914a88e8ab81d9d3bb5, type: 2}
+  - {fileID: 11400000, guid: fd21352a8040f9045b76b29b7be24843, type: 2}
+  - {fileID: 11400000, guid: aff767c8f8182ef4c951ad9933df569a, type: 2}
+  - {fileID: 11400000, guid: 2f30476c071b83a4eaf8c734d473a87a, type: 2}
